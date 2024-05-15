@@ -1,8 +1,8 @@
-# Bienvenid@s tod@s!
+![Welcome](imagenes/carmen_m.jpg)
 
+# Welcome everyone!
 
-
-#### Hola! Sientete en casa, es un placer tenerte aquí, siéntete libre de explorar mis proyectos, espero los disfrutes. Si tienes alguna pregunta o sugerencia, no dudes en contactarme, Gracias por tu visita!
+#### Hi! you are welcome to Make yourself at home,  Sientete en casa, es un placer tenerte aquí, siéntete libre de explorar mis proyectos, espero los disfrutes. Si tienes alguna pregunta o sugerencia, no dudes en contactarme, Gracias por tu visita!
 
 
 
