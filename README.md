@@ -18,8 +18,8 @@
 
 ### 💪 Proyects 
 👉[Interfaz de Pinterest](https://github.com/cemtzc/interfazdepinterest)
-Este proyecto es un clon de la interfaz de usuario de Pinterest, creado puramente con HTML y CSS3.
-Se enfoca en replicar la apariencia visual de Pinteret, ofreciendo una experiencia de navegación similar con un diseño responsible y funcionalidades básicas.
+This project is a clone of the Pinterest UI, created purely with HTML and CSS3.
+It focuses on replicating the visual appearance of Pinterest, offering a similar browsing experience with a responsible design and basic functionalities.
 
 <!--
 **cemtzc/cemtzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
