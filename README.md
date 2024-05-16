@@ -17,7 +17,7 @@
 ![Divider3](imagenes/divider_3.jpg)
 
 ### 💪 Proyects 
-👉(https://github.com/cemtzc/interfazdepinterest)
+👉[Interfaz de Pinterest](https://github.com/cemtzc/interfazdepinterest)
 Este proyecto es un clon de la interfaz de usuario de Pinterest, creado puramente con HTML y CSS3.
 Se enfoca en replicar la apariencia visual de Pinteret, ofreciendo una experiencia de navegación similar con un diseño responsible y funcionalidades básicas.
 
