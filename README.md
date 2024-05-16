@@ -9,8 +9,24 @@
 
 👉 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+### 🌎Find me around the web
+
+👉 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ________
+
+👉 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)___________
+
+👉 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)___________
+
+👉 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)___________
+
+### 💪 Proyects 
+
+
+
 ### Please, contact me at
 [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:cemtzc@gmail.com)&nbsp;
+
+
 <!--
 **cemtzc/cemtzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
